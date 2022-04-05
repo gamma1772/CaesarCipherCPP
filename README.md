@@ -17,7 +17,3 @@ or
 or
 
     caesar-cipher decrypt number <text>
-    
-## Compilation
-
-    TODO
